@@ -1,0 +1,24 @@
+{
+    "cows": [
+      {"cow_id": "12345678", "age_years": 5, "age_months": 6, "udders": 4},
+      {"cow_id": "87654321", "age_years": 3, "age_months": 4, "udders": 3},
+      {"cow_id": "13579246", "age_years": 2, "age_months": 8, "udders": 4},
+      {"cow_id": "24681357", "age_years": 7, "age_months": 1, "udders": 4},
+      {"cow_id": "19283746", "age_years": 1, "age_months": 5, "udders": 3},
+      {"cow_id": "36472819", "age_years": 6, "age_months": 2, "udders": 4},
+      {"cow_id": "74829163", "age_years": 4, "age_months": 9, "udders": 3},
+      {"cow_id": "91827364", "age_years": 9, "age_months": 11, "udders": 4},
+      {"cow_id": "56473829", "age_years": 8, "age_months": 7, "udders": 3},
+      {"cow_id": "27384910", "age_years": 10, "age_months": 3, "udders": 4},
+      {"cow_id": "37485920", "age_years": 6, "age_months": 10, "udders": 4},
+      {"cow_id": "91827310", "age_years": 5, "age_months": 4, "udders": 3},
+      {"cow_id": "10293847", "age_years": 7, "age_months": 8, "udders": 4},
+      {"cow_id": "01928374", "age_years": 3, "age_months": 7, "udders": 4},
+      {"cow_id": "11223344", "age_years": 2, "age_months": 2, "udders": 3}
+    ],
+    "goats": [
+      {"goat_id": "88888888"},
+      {"goat_id": "99999999"}
+    ]
+  }
+  
